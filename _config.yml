@@ -2,12 +2,12 @@
 title: Naz Cules
 email: naz.cules@gmail.com
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+description: "Naz Cules adalah freelancer web developer, design, programmer dari Makassar, Sulawesi Selatan, Indonesia. Berpengalaman 3-4 tahun di bidang web developer."
+skills: "Web Developer - Web Designer"
 meta_author: Naz Cules
 
 # Google webmaster tools
-google_verify:
+google_verify: 75hrcw5JLnYhGH57Kdnuok5gjRBfWanP6CWnQOZpdGs
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -31,10 +31,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Naz Cules
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: About
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -44,18 +44,18 @@ social:
     url: http://facebook.com/naszh.barca
   - title: google-plus
     url: http://plus.google.com/+nazcules
-  - title: instagram
-    url: http://instagram.com/nazcules
   - title: github
     url: http://github.com/nazcules
+  - title: website
+    url: http://nazcules.xyz
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Komplek Skarda N No. 19
-  - line: Makassar
+  - line: Makassar, Sulawesi Selatan, Indonesia
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelance Web Developer & Web Designer From Makassar, Indonesia.'
 
 # Build settings
 markdown: kramdown
